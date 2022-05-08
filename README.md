@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+# React ToDo App
 
-To use this template click `Use this template`
+Implemented ToDo app, with an input field to create new todos on submit (Enter). Display a list of todos with the ability to switch completed status and filter by execution status.
+Created the ability to delete and edit the list item.
 
-### Available Scripts
+Used React, Typescript, СSS, HTML
 
-`Deploy` - available to deploy your application to gh-pages
+[DEMO LINK]()
 
-`SCSS Preprocessor` - available to write your styles with modern style language
